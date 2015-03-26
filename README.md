@@ -5,4 +5,5 @@
 #下来刷新的列表控件XListView
 https://github.com/Maxwin-z/XListView-Android
 
-#
+#ListView左右滑动Item删除
+https://github.com/47deg/android-swipelistview

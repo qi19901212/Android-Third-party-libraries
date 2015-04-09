@@ -10,3 +10,6 @@ https://github.com/47deg/android-swipelistview
 
 #剪切图片，图片旋转
 https://github.com/edmodo/cropper
+
+#把头像切为圆的
+https://github.com/hdodenhof/CircleImageView

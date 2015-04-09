@@ -7,3 +7,6 @@ https://github.com/Maxwin-z/XListView-Android
 
 #ListView左右滑动Item删除
 https://github.com/47deg/android-swipelistview
+
+#剪切图片，图片旋转
+https://github.com/edmodo/cropper

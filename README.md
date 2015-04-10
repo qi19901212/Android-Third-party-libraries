@@ -13,3 +13,6 @@ https://github.com/edmodo/cropper
 
 #把头像切为圆的
 https://github.com/hdodenhof/CircleImageView
+
+#Facebook推出的Android图片库Fresco
+https://github.com/facebook/fresco
